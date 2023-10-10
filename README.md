@@ -4,7 +4,7 @@ ___
 Prérequis :  
 une VM avec windows server 2022   
 4 disques en tout dont :   
-1 disque (non dynamique) pour le système de windows   
+1 disque (toujours non dynamique) pour le système de windows   
 3 disques dynamiques    
 
 ______
